@@ -306,6 +306,7 @@ __Git Resources__
 - Atlassian: [Overview of `rebase`](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 - Github Help: [How to use `rebase`](https://help.github.com/en/github/using-git/using-git-rebase-on-the-command-line)
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 - [Oh Shit, Git!?!](https://ohshitgit.com/) with real problems and solutions
 
 > ⚠️ 👀 **WARNING:**
